@@ -23,5 +23,6 @@ $ ~/AndroidStudioProjects: ./zipandroidoblig.sh Oblig1/
 
 For Windows:
 
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 https://superuser.com/questions/1066261/how-to-access-windows-folders-from-bash-on-ubuntu-on-windows/1258087#1258087
