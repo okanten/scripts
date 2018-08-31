@@ -1,5 +1,4 @@
 #! /bin/bash
-
 fullname="YourNameHere" # Put your name here without spaces (e.g.: JohnDoe)
 
 display_usage() { 
