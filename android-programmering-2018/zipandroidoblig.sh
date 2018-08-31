@@ -15,6 +15,7 @@ fi
 basename=$(basename $1)
 rm -rf /tmp/$basename/
 cp -R $1 /tmp/$basename/
+mv -n /tmp/$basename/app/build/outputs/apk/debug/app-debug.apk /tmp/$basename/app-debug.apk # Flytter apk-filen hvis den ikke eksisterer.
 rm -r /tmp/$basename/.gradle
 rm -r /tmp/$basename/.git
 rm -r /tmp/$basename/app/build
