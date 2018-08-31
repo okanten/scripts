@@ -11,6 +11,7 @@ $ chmod +x zipandroidoblig.sh
 Det letteste er å legge scriptet i AndroidStudioProjects-mappa hvis du ikke allerede har satt opp en path til scripts.
 
 Kjør den i mappen hvor *mappen til* obligen ligger.
+
 Eksempel på bruk:
 
 ```
